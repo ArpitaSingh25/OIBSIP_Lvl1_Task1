@@ -1,7 +1,7 @@
 ## <center>Task 1 <br> Landing Page</center>
 
 
-- [Click Here to visit site](http://diplomagraduate.ezyro.com/task1/?i=1)
+- [Click Here to visit site](https://oibsip-lvl1-task1.vercel.app/)
 
 <hr>
 
